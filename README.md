@@ -8,7 +8,7 @@ I care about the part most analytics work skips — making sure the foundation i
 
 #### What I Work With
 
-`SQL` · `Power BI` · `Tableau` · `DAX` · `Power Query` · `Python` · `Data Modeling` · `Excel`
+`Exce;` ·`SQL` · `Power BI` · `Tableau` · `DAX` · `Power Query` · `Data Modeling` · `Python` 
 
 ---
 
