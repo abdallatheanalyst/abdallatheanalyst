@@ -2,7 +2,7 @@
 
 I'm a Data Analyst focused on turning messy, real-world data into clear insights that drive decisions. Based in Dubai, UAE.
 
-I care about the part most analytics work skips — making sure the foundation is right before anything gets built on top.
+I care about the part most analytics work skips, making sure the foundation is right before anything gets built on top.
 
 ---
 
@@ -23,13 +23,13 @@ End-to-end analytics on 705,944 UAE traffic incidents. SQL Server ETL, dimension
 
 #### Currently Working On
 
-**The Dubai Property Atlas** — 20 years of Dubai property transactions analyzed across sales, rentals, and new developments. Coming soon.
+**The Dubai Property Atlas** - 20 years of Dubai property transactions analyzed across sales, rentals, and new developments. Coming soon.
 
 ---
 
 #### Connect
 
-- 🌐 **Portfolio** — coming soon
+- 🌐 **Portfolio** - coming soon
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdallamohamud/)
 
 ---
