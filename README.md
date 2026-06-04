@@ -19,11 +19,10 @@ End-to-end analytics on 705,944 UAE traffic incidents. SQL Server ETL, dimension
 
 → [View project](https://github.com/abdallatheanalyst/dubai-traffic-intelligence)
 
----
+**Dubai Property Atlas: 20 Years of Neighborhood Evolution**  
+Analyzed 1.7M+ Dubai property transactions from the Dubai Land Department (DLD) Open Data Portal to uncover market trends, neighborhood intelligence, and project-level performance through SQL Server, dimensional modeling, and Power BI.
 
-#### Currently Working On
-
-**The Dubai Property Atlas** - 20 years of Dubai property transactions analyzed across sales, rentals, and new developments. Coming soon.
+→ [View project](https://github.com/abdallatheanalyst/dubai-property-atlas)
 
 ---
 
