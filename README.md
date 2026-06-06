@@ -28,7 +28,7 @@ Analyzed 1.7M+ Dubai property transactions from the Dubai Land Department (DLD) 
 
 #### Connect
 
-- 🌐 [Portfolio](https://abdalladata.carrd.co/))
+- 🌐 [Portfolio](https://abdalladata.carrd.co/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdallamohamud/)
 
 ---
